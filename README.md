@@ -2,7 +2,7 @@
 
 ## 🚀 Project Overview
 
-This project presents an **End-to-End YouTube Analytics Dashboard** developed using **Power BI** to analyze content performance, viewer engagement, creator growth, and regional audience behavior.
+This project presents an **End-to-End YouTube Analytics Dashboard** developed using **Power BI** to analyze content performance, viewer engagement and creator growth.
 
 The objective is to transform raw YouTube data into **actionable business insights** that help optimize content strategy, improve retention, and identify growth opportunities.
 
@@ -69,53 +69,6 @@ The objective is to transform raw YouTube data into **actionable business insigh
 * High-performing channel categories
 * Upload frequency vs channel growth
 
----
-
-### 3️⃣ Country-wise Content Analysis Dashboard
-
-**Objective:** Understand regional content trends and audience distribution.
-
-**Key KPIs**
-
-* Total Uploads
-* Total Views
-* Average Views per Country
-
-**Visualizations**
-
-* Map Visualization – Country-wise Views
-* Horizontal Bar Chart – Top Countries by Uploads
-* KPI Summary Cards
-
-**Insights**
-
-* Content-heavy regions
-* Viewership concentration
-* Market expansion opportunities
-
----
-
-### 4️⃣ Video Length vs Performance Dashboard
-
-**Objective:** Study how video duration impacts engagement.
-
-**Key KPIs**
-
-* Average Watch Time
-* Completion Rate
-* Views per Minute
-
-**Visualizations**
-
-* Scatter Plot – Duration vs Views
-* Bar Chart – Length Buckets
-* KPI Cards
-
-**Insights**
-
-* Ideal duration for growth
-* Overlength content drop-off
-* Retention sweet spot
 
 ---
 
